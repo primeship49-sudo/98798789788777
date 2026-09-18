@@ -1,0 +1,6 @@
+{
+  "name": "IronPulse Athletic Club",
+  "description": "High-performance gym and fitness club website with interactive schedules, membership plans, trainer directory, fitness calculator, and 3-day pass booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
